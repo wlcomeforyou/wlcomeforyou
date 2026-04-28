@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there! I'm frederic. From Nanjing,JiangSu,China. 👋
+### I am trying not to be overwhelmed by this cumbersome world！Fighting ！God bless everyone。
 <!--
 **wlcomeforyou/wlcomeforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
